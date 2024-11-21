@@ -1,0 +1,1 @@
+Este é um aplicativo de     evento simples desenvolvido em React Native. Ele permite adicionar, visualizar e excluir participantes, ajudando os usuários a se organizarem quando forem criar uma lista de convidados.
